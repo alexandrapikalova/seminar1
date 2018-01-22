@@ -7,4 +7,4 @@
     1. DokuWiki (с помощью плагина)
     2.ikiwiki
     3.Oddmuse
-    4.PmWiki (с помощью плагина)
+    4.PmWiki (с помощью плагина
