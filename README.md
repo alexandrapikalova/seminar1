@@ -8,3 +8,12 @@
     2. ikiwiki
     3. Oddmuse
     4. PmWiki (с помощью плагина)
+2. Блоги:
+    - Tumblr — изначально отключён, но можно использовать, включив в настройках.
+    - scriptogr.am
+3. CMS:
+    - Drupal — content-фильтр Markdown
+    - Magento — с помощью модуля
+    - Plone — «родная» поддержка в Plone 3
+    - TYPO3 — с помощью плагина af_markdown
+    - RadiantCMS — один из видов разметки, доступный «из коробки»
